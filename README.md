@@ -38,3 +38,7 @@
 [dependencies]
 self-github-update = { version = "0.39.0", features = ["archive-zip"] }
 ```
+
+### 例子
+
+`https://github.com/jaemk/self_update`

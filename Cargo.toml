@@ -2,6 +2,7 @@
 name = "self-github-update"
 version = "0.39.0"
 description = "Self updates for standalone executables (Github)"
+license = "MIT"
 edition = "2018"
 rust = "1.64"
 
